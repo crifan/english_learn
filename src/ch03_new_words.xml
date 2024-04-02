@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding="utf-8"?>
+
+<!DOCTYPE chapter
+[
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" 'http://www.crifan.com/files/res/docbook/entity/crl.ent'>
+%crl_ent;
+
+]>
+
+<chapter 
+    xmlns="http://docbook.org/ns/docbook"
+    xmlns:xl="http://www.w3.org/1999/xlink"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    
+    xml:id="ch03_new_words"
+    >
+<title>新英语单词</title>
+<abstract></abstract>
+
+
+<orderedlist>
+    <listitem><emphasis>Evacuation</emphasis><co id="co.evacuation" linkends="co.note.evacuation" /> procedures are implemented whenever the fire alarms have been activated.</listitem>
+    <listitem>The following rules and policies are binding for every employee who works at the <emphasis>premises</emphasis><co id="co.premises" linkends="co.note.premises" /> of M&amp;M Software (Suzhou) GmbH</listitem>
+    <listitem>This also includes employees from M&amp;M Software in Sankt Georgen who work in Suzhou permanently ('<emphasis>Expatriates</emphasis><co id="co.expatriates" linkends="co.note.expatriates" />') or who are just visiting the offices temporarily.</listitem>
+    <listitem>The office shall not be used for private or <emphasis>recreational</emphasis><co id="co.recreational" linkends="co.note.recreational" /> purposes.</listitem>
+    <listitem>The <emphasis>electronic attendance system</emphasis><co id="co.elec_attend_system" linkends="co.note.elec_attend_system" /> in connection with the personal card shall only be used by using one’s own card.</listitem>
+    <listitem>The business divisions Factory Automation and Process Automation develop technologically outstanding and innovative PC and Web based solutions for <emphasis>renowned</emphasis><co id="co.renowned" linkends="co.note.renowned" /> industrial customers.</listitem>
+    <listitem><emphasis>Synergy-effects</emphasis><co id="co.synerygy_effect" linkends="co.note.synerygy_effect" /> between the business divisions will also reflect positively on our technological leadership</listitem>
+    <listitem>Our main <emphasis>turnover</emphasis><co id="co.turnover" linkends="co.note.turnover" /> is based on software development services in our target sector Industrial Automation.</listitem>
+    <listitem>They must be able to work in a safe, pleasant and <emphasis>appealing</emphasis><co id="co.appealing" linkends="co.note.appealing" /> workplace and working environment.</listitem>
+    <listitem>We also want to create an environment, where they can gain <emphasis>personal satisfaction and self-esteem</emphasis><co id="co.satif_and_esteem" linkends="co.note.satif_and_esteem" /> from their work.</listitem>
+    <listitem>Therefore we support Product <emphasis>Envisioning</emphasis><co id="co.envisioning" linkends="co.note.envisioning" /> and -Implementation</listitem>
+    <listitem>The personal files of the employees will <emphasis>be entrusted to</emphasis><co id="co.trusted_to" linkends="co.note.trusted_to" /> the company and be kept by its filing agent.</listitem>
+    <listitem>They asked us to do a <emphasis>retrospective</emphasis><co id="co.retrospective" linkends="co.note.retrospective" /> about the first months of that project.</listitem>
+    <listitem>This FieldBus Kit (FBK) is an <emphasis>off-the shelf</emphasis><co id="co.off_the_shelf" linkends="co.note.off_the_shelf" />, proven solution for the rapid development of FOUNDATIONTM fieldbus H1 (FF H1) and PROFIBUS PA (PB PA) field devices for intrinsically and non-intrinsically safe environments.</listitem>
+    <listitem>The <emphasis>trendsetting</emphasis><co id="co.trendsetting" linkends="co.note.trendsetting" /> FBK module is utilizing Softing’s communication ASIC UFC100-F1.</listitem>
+    <listitem>The FBK module has an <emphasis>intrinsically</emphasis><co id="co.intrinsically" linkends="co.note.intrinsically" /> safe design and has an ATEX certification.</listitem>
+    <listitem>Relatively high <emphasis>fluctuation</emphasis><co id="co.fluctuation" linkends="co.note.fluctuation" /> (but no big impact). </listitem>
+    <listitem>System Control <emphasis>Fair</emphasis><co id="co.fair_exhibitor" linkends="co.note.fair_exhibitor" /> 2009，exhibitor<coref linkend="co.fair_exhibitor" /></listitem>
+    <listitem>PROFIBUS enables <emphasis>proactive</emphasis><co id="co.proactive" linkends="co.note.proactive" /> management over the life cycle of a plant.</listitem>
+    <listitem>A broad spectrum of base technology components and development tools (PROFIBUS ASICs, PROFIBUS stacks, bus monitors, test tools and <emphasis>commissioning</emphasis><co id="co.commissioning" linkends="co.note.commissioning" /> tools) and services are available for implementation of the PROFIBUS protocol.</listitem>
+</orderedlist>
+
+<table xml:id="tbl.eng_words_1_20"><title>1-20单词的含义</title>
+    <tgroup cols="4">
+        <colspec colnum="1" colname="col1" colwidth="1*" />
+        <colspec colnum="2" colname="col2" colwidth="2*" />
+        <colspec colnum="3" colname="col3" colwidth="2*" />
+        <colspec colnum="4" colname="col4" colwidth="4*" />
+    
+        <thead align="center">
+            <row><entry>序号</entry><entry>英文单词</entry><entry>中文含义</entry><entry>说明注释</entry></row>
+        </thead>
+        
+        <tbody>
+            <row><entry><coref linkend="co.evacuation" id="co.note.evacuation" /></entry><entry>evacuation</entry><entry>疏散，撤离</entry><entry>指失火了，要逃离的情况</entry></row>
+            <row><entry><coref linkend="co.premises" id="co.note.premises" /></entry><entry>premises</entry><entry>经营场所</entry><entry>此处是公司地址，场所的意思</entry></row>
+            <row><entry><coref linkend="co.expatriates" id="co.note.expatriates" /></entry><entry>expatriates</entry><entry>外派人员</entry><entry>公司的外派人员</entry></row>
+            <row><entry><coref linkend="co.recreational" id="co.note.recreational" /></entry><entry>recreational</entry><entry>娱乐的，休闲的</entry><entry></entry></row>
+            <row><entry><coref linkend="co.elec_attend_system" id="co.note.elec_attend_system" /></entry><entry>electronic attendance system</entry><entry>电子考勤系统</entry><entry></entry></row>
+            <row><entry><coref linkend="co.renowned" id="co.note.renowned" /></entry><entry>renowned</entry><entry>有名的，有声誉的</entry><entry>类似于famous</entry></row>
+            <row><entry><coref linkend="co.synerygy_effect" id="co.note.synerygy_effect" /></entry><entry>Synergy-effects</entry><entry>协同效应</entry><entry></entry></row>
+            <row><entry><coref linkend="co.turnover" id="co.note.turnover" /></entry><entry>turnover</entry><entry>营业额</entry><entry></entry></row>
+            <row><entry><coref linkend="co.appealing" id="co.note.appealing" /></entry><entry>appealing</entry><entry>吸引人的，有吸引力的</entry><entry>类似于attractive</entry></row>
+            <row><entry><coref linkend="co.satif_and_esteem" id="co.note.satif_and_esteem" /></entry><entry>personal satisfaction and self-esteem</entry><entry>自我满足和自尊</entry><entry></entry></row>
+            <row><entry><coref linkend="co.envisioning" id="co.note.envisioning" /></entry><entry>envisioning</entry><entry>展望，期望</entry><entry></entry></row>
+            <row><entry><coref linkend="co.trusted_to" id="co.note.trusted_to" /></entry><entry>be entrusted to</entry><entry>被委托给</entry><entry></entry></row>
+            <row><entry><coref linkend="co.retrospective" id="co.note.retrospective" /></entry><entry>retrospective</entry><entry>回顾</entry><entry></entry></row>
+            <row><entry><coref linkend="co.off_the_shelf" id="co.note.off_the_shelf" /></entry><entry>off-the shelf</entry><entry>现成的，成品的</entry><entry>相当于already available</entry></row>
+            <row><entry><coref linkend="co.trendsetting" id="co.note.trendsetting" /></entry><entry>trendsetting</entry><entry>在服装式样、思想等方面）创新风的</entry><entry>创新，时尚</entry></row>
+            <row><entry><coref linkend="co.intrinsically" id="co.note.intrinsically" /></entry><entry>intrinsically</entry><entry>固有的，内在的</entry><entry>与生俱来的，天生（就有某种很好的特性）的</entry></row>
+            <row><entry><coref linkend="co.fluctuation" id="co.note.fluctuation" /></entry><entry>fluctuation</entry><entry>波动</entry><entry>可以用于公司员工离职和入职所造成的人员的波动。</entry></row>
+            <row><entry><coref linkend="co.fair_exhibitor" id="co.note.fair_exhibitor" /></entry><entry>Fair；exhibitor</entry><entry>展览会；参展商</entry><entry></entry></row>
+            <row><entry><coref linkend="co.proactive" id="co.note.proactive" /></entry><entry>proactive</entry><entry>前瞻性，前沿性的</entry><entry></entry></row>
+            <row><entry><coref linkend="co.commissioning" id="co.note.commissioning" /></entry><entry>commissioning</entry><entry>试运转</entry><entry>=pilot=trial。一般产品设计完成后，拿到产线试运行，可以叫做pilot；此处指某个产品，放到现场环境测试运行，叫做commissioning；而消费者的针对一般的普通商品的试用，才叫trial。</entry></row>
+        </tbody>
+    </tgroup>
+</table>
+
+
+<orderedlist>
+    <listitem>Additionally, PI competence Center and many suppliers offer support <emphasis>in this regard</emphasis><co role="reindex" id="co.in_this_regard" linkends="co.note.in_this_regard" />.</listitem>
+    <listitem>The technology reduces hardware requirements and lowers Capital Expenditures (<emphasis>CAPEX</emphasis><co role="reindex" id="co.capex" linkends="co.note.capex" />).</listitem>
+    <listitem>FOUNDATION HSE’s <emphasis>full-fledged</emphasis><co id="co.full_fledged" linkends="co.note.full_fledged" /> redundancy scheme gives control systems greater availability than systems using simple ring-topology.</listitem>
+    <listitem>A key <emphasis>tenet</emphasis><co id="co.tenet" linkends="co.note.tenet" /> of the Fieldbus Foundation is that the FOUNDATION protocol is non-proprietary and available to all companies wishing to include it in their product offerings.</listitem>
+    <listitem>The Fieldbus Kit allows applications in an intrinsically safe environment, and - due to its compact design - it can be used in <emphasis>a multitude of</emphasis><co id="co.a_multitude_of" linkends="co.note.a_multitude_of" /> existing devices.</listitem>
+    <listitem>The following table contains the language codes explicitly <emphasis>delineate</emphasis><co id="co.delineate" linkends="co.note.delineate" />d for RSS.</listitem>
+    <listitem>This signal is <emphasis>superimpose</emphasis><co id="co.superimpose" linkends="co.note.superimpose" />d at a low level on the 4-to-20mA analog measurement signal without causing any interference with the analog signal.</listitem>
+</orderedlist>
+
+<table xml:id="tbl.eng_words_21_40"><title>21-40单词的含义</title>
+    <tgroup cols="4">
+        <colspec colnum="1" colname="col1" colwidth="1*" />
+        <colspec colnum="2" colname="col2" colwidth="2*" />
+        <colspec colnum="3" colname="col3" colwidth="2*" />
+        <colspec colnum="4" colname="col4" colwidth="4*" />
+    
+        <thead align="center">
+            <row><entry>序号</entry><entry>英文单词</entry><entry>中文含义</entry><entry>说明注释</entry></row>
+        </thead>
+        
+        <tbody>
+            <row><entry><coref linkend="co.in_this_regard" id="co.note.in_this_regard" /></entry><entry>in this regard</entry><entry>就这一点而言，针对这点（来说）</entry><entry></entry></row>
+            <row><entry><coref linkend="co.capex" id="co.note.capex" /></entry><entry>Capital Expenditures (CAPEX)</entry><entry>资本支出</entry><entry>Capital Expenditure缩写为CAPEX，一般是指资金、固定资产的投入.对电信运营商来说,有关的网络设备、计算机、仪器等一次性支出的项目都属于CAPEX。与之对应的叫做OPEX，Operating Expense，运营（管理）支出（成本）</entry></row>
+            <row><entry><coref linkend="co.full_fledged" id="co.note.full_fledged" /></entry><entry>full-fledged</entry><entry>羽翼丰满的，成熟的</entry><entry></entry></row>
+            <row><entry><coref linkend="co.tenet" id="co.note.tenet" /></entry><entry>tenet</entry><entry>信条，原则</entry><entry></entry></row>
+            <row><entry><coref linkend="co.a_multitude_of" id="co.note.a_multitude_of" /></entry><entry>a multitude of</entry><entry>大量的</entry><entry>相当于many，much</entry></row>
+            <row><entry><coref linkend="co.delineate" id="co.note.delineate" /></entry><entry>delineate</entry><entry>描述，描绘</entry><entry></entry></row>
+            <row><entry><coref linkend="co.superimpose" id="co.note.superimpose" /></entry><entry>superimpose</entry><entry>叠加，置于他物之上</entry><entry>可用于指两种信号叠加</entry></row>
+        </tbody>
+    </tgroup>
+</table>
+
+
+</chapter>

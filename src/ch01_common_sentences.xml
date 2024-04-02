@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding="utf-8"?>
+
+<!DOCTYPE chapter
+[
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" 'http://www.crifan.com/files/res/docbook/entity/crl.ent'>
+%crl_ent;
+]>
+
+<chapter 
+    xmlns="http://docbook.org/ns/docbook"
+    xmlns:xl="http://www.w3.org/1999/xlink"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    
+    xml:id="ch01_common_sentences"
+    >
+<title>常见英文句子表达</title>
+<abstract></abstract>
+<qandaset>
+
+    <qandaentry>
+        <question>
+            <para>欢迎新同事</para>
+        </question>
+        <answer>
+            <screen>Please join us in welcoming XXX (Employee Name) to our family of XXX (Company Name) and wish him every success !</screen>
+        </answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question>
+            <para>希望你花点时间做某事情</para>
+        </question>
+        <answer>
+            <screen>I will appreciate if you can spend some minutes to take this survey.</screen>
+        </answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question>
+            <para>婚宴邀请</para>
+        </question>
+        <answer>
+            <screen>XXX and XXX will hold wedding banquet on Saturday, 19th  November. We look forward to you and your family can attend the banquet, request the honor of your presence at the marriage of us</screen>
+        </answer>
+    </qandaentry>
+
+</qandaset>
+</chapter>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding="utf-8"?>
+
+<!DOCTYPE chapter
+[
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" 'http://www.crifan.com/files/res/docbook/entity/crl.ent'>
+%crl_ent;
+
+]>
+
+<chapter 
+    xmlns="http://docbook.org/ns/docbook"
+    xmlns:xl="http://www.w3.org/1999/xlink"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    
+    xml:id="ch02_group_words"
+    >
+<title>英语单词组</title>
+<abstract></abstract>
+<qandaset>
+<qandadiv><title>和工作相关的</title>
+    <qandaentry>
+        <question><para>固定期限合同</para></question>
+        <answer><screen>fixed-term contract</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>由具体工作决定的期限 合同</para></question>
+        <answer><screen>contract with a term to expire upon completion of a certain job</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>试用期</para></question>
+        <answer><screen>probation/ probationary period</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>解雇</para></question>
+        <answer><screen>dismissal</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>人事档案信息</para></question>
+        <answer><screen>Personnel Files and Information</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>公积金</para></question>
+        <answer><screen>SPF (SIP Provident Fund)</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>社保（社会保险）</para></question>
+        <answer><screen>Social Insurance</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>统筹账户</para></question>
+        <answer><screen>Common account</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>年度业绩评估</para></question>
+        <answer><screen>Annual Performance Appraisal</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para></para></question>
+        <answer><screen></screen></answer>
+    </qandaentry>
+
+</qandadiv>
+
+<qandadiv><title>假期</title>
+    <qandaentry>
+        <question><para>病假</para></question>
+        <answer><screen>Sick Leave</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>缺席，缺勤</para></question>
+        <answer><screen>Leave of Absence</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>未经许可的缺勤</para></question>
+        <answer><screen>Unauthorized leave</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>婚假</para></question>
+        <answer><screen>Marriage Leave</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>产假</para></question>
+        <answer><screen>Maternity Leave</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>护理假</para></question>
+        <answer><screen>Nursing leave</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>流产假</para></question>
+        <answer><screen>Abortion Leave</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>陪产假</para></question>
+        <answer><screen>Paternity Leave</screen></answer>
+    </qandaentry>
+
+    <qandaentry>
+        <question><para>丧假</para></question>
+        <answer><screen>Bereavement Leave</screen></answer>
+    </qandaentry>
+
+</qandadiv>
+
+</qandaset>
+</chapter>

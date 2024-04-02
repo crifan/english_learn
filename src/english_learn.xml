@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding="utf-8"?>
+
+<!DOCTYPE book
+[
+
+<!ENTITY cur_book_name      "english_learn" >
+<!ENTITY publish_date       "2012-06-20" >
+<!ENTITY release_version    "1.0" >
+
+<!ENTITY copyrith_year "2012" >
+<!ENTITY entity_common_multi_format     SYSTEM  "../../entity_common_multi_format.xml">
+<!ENTITY entity_common_publish_info     SYSTEM  "../../entity_common_publish_info.xml">
+]>
+
+<book version="5.0"
+    xmlns="http://docbook.org/ns/docbook"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xl="http://www.w3.org/1999/xlink"
+    
+    xml:lang="zh_CN"
+    >
+<info>
+    <title>英语学习笔记</title>
+    <subtitle></subtitle>
+    <keywordset>
+        <keyword>crifan</keyword>
+        <keyword>英文</keyword>
+        <keyword>学习</keyword>
+        <keyword>单词</keyword>
+        <keyword>常见表达</keyword>
+    </keywordset>
+
+    <abstract>
+        <para>此文主要介绍对于个人而言新的英语单词，新的句子表达方式等英语方面的学习记录</para>
+        &entity_common_multi_format;
+    </abstract>
+
+    <revhistory>
+        <revision>
+            <revnumber>&release_version;</revnumber>
+            <date>&publish_date;</date>
+            <revremark>
+                <orderedlist>
+                    <listitem>添加了基本的内容</listitem>
+                </orderedlist>
+            </revremark>
+            <authorinitials>crl</authorinitials>
+        </revision>
+    </revhistory>
+
+    &entity_common_publish_info;
+</info>
+
+<xi:include href="ch01_common_sentences.xml"/>
+<xi:include href="ch02_group_words.xml"/>
+<xi:include href="ch03_new_words.xml"/>
+
+</book>
